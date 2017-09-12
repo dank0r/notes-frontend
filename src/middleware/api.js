@@ -2,7 +2,7 @@ import fetch from 'isomorphic-fetch';
 
 const callApi = async (endpoint, requestOptions) => {
   try {
-    const response = await fetch(`http://localhost:3012/${endpoint}`, requestOptions);
+    const response = await fetch(`http://bigstorage-backend.herokuapp.com/${endpoint}`, requestOptions);
     if (response.ok) {
       return response.json();
     }
