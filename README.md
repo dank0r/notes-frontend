@@ -1,6 +1,6 @@
 # notes-frontend
 <a href="http://bigstorage.herokuapp.com">DEMO</a><br>
-This is a hierarchic file system CRUD app<br>
+This is a hierarchic file system CRUD app.<br>
 Technologies I used:<br><br>
 <b>frontend (this repository):</b><br>
 <ul>
