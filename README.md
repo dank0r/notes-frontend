@@ -11,7 +11,7 @@ Technologies I used:<br><br>
   <li>Material UI</li>
   <li>Redux Form</li>
 </ul>
-<b>backend (<a href="https://github.com/danya296/chat-backend">repository</a>):</b><br>
+<b>backend (<a href="https://github.com/danya296/notes-backend">repository</a>):</b><br>
 <ul>
   <li>Node.js</li>
   <li>Express</li>
